@@ -1,7 +1,3 @@
-TAILSCALE_AUTH_KEY
-
-
-
 name: RRD
 
 on:
